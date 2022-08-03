@@ -28,6 +28,6 @@ https://flabber459.github.io/Module-1-Challenge---Mario-Palozzo/
 
 Screenshots of the completed work:
 
-![plot](./README-images/Website-1.png)
-![plot](./README-images/Website-2.png)
-![plot](./README-images/Website-3.png)
+![plot](./assets/images/Website-1.png)
+![plot](./assets/images/Website-2.png)
+![plot](./assets/images/Website-3.png)
