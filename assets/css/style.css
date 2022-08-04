@@ -36,9 +36,6 @@ header nav {
 header a {
     display: inline-block;
     margin-left: 25px;
-}
-
-a {
     text-decoration: none;
 }
 
@@ -57,11 +54,19 @@ a {
     margin-left: 20px;
 }
 
+.sectionimg {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+}
+
 .sectionimg img {
     max-height: 200px;
 }
 
-.sectionimg h2 {
+section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -101,14 +106,6 @@ a {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-.sectionimg {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
 }
 
 footer h4 {
